@@ -1,0 +1,22 @@
+2024/05/23-16:59:56.893 12607 Reusing MANIFEST /Users/leidyburgos/Documents/WhstaCreativos/.wwebjs_auth/session-Client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/05/23-16:59:56.894 12607 Recovering log #260
+2024/05/23-16:59:56.966 12607 Reusing old log /Users/leidyburgos/Documents/WhstaCreativos/.wwebjs_auth/session-Client-one/Default/IndexedDB/https_web.whatsapp.com_0.indexeddb.leveldb/000260.log 
+2024/05/23-17:00:07.562 8403 Level-0 table #269: started
+2024/05/23-17:00:07.573 8403 Level-0 table #269: 719834 bytes OK
+2024/05/23-17:00:07.576 8403 Delete type=0 #260
+2024/05/23-17:00:07.577 8403 Manual compaction at level-0 from '\x00:\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00;\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/05/23-17:00:08.942 12607 Compacting 1@1 + 5@2 files
+2024/05/23-17:00:08.987 12607 Generated table #270@1: 34003 keys, 2201637 bytes
+2024/05/23-17:00:09.023 12607 Generated table #271@1: 39372 keys, 2197342 bytes
+2024/05/23-17:00:09.040 12607 Generated table #272@1: 3035 keys, 2148703 bytes
+2024/05/23-17:00:09.074 12607 Generated table #273@1: 32342 keys, 2212112 bytes
+2024/05/23-17:00:09.125 12607 Generated table #274@1: 78333 keys, 2223141 bytes
+2024/05/23-17:00:09.128 12607 Generated table #275@1: 640 keys, 14844 bytes
+2024/05/23-17:00:09.128 12607 Compacted 1@1 + 5@2 files => 10997779 bytes
+2024/05/23-17:00:09.134 12607 compacted to: files[ 0 0 6 0 0 0 0 ]
+2024/05/23-17:00:09.134 12607 Delete type=2 #263
+2024/05/23-17:00:09.134 12607 Delete type=2 #262
+2024/05/23-17:00:09.134 12607 Delete type=2 #266
+2024/05/23-17:00:09.134 12607 Delete type=2 #265
+2024/05/23-17:00:09.134 12607 Delete type=2 #264
+2024/05/23-17:00:09.135 12607 Delete type=2 #269
